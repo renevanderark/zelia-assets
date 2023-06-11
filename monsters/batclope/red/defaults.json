@@ -1,0 +1,6 @@
+{
+    "hp":            200,
+    "damage":         5,
+    "xAcceleration":  10,
+    "yAcceleration":  3
+}
