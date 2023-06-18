@@ -2,5 +2,6 @@
     "hp":            20,
     "damage":         4,
     "xAcceleration":  1,
-    "yAcceleration":  3
+    "yAcceleration":  3,
+    "touchDamage":    1
 }

@@ -3,5 +3,6 @@
     "damage":          5,
     "xAcceleration":   0,
     "yAcceleration":   0,
-    "isBoss":          true
+    "isBoss":          true,
+    "touchDamage":     5
 }
